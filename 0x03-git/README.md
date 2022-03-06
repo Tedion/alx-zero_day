@@ -1,4 +1,2 @@
-Add readme file
-
-
-this the first alx git project
+# 0x03-git
+This the first alx git project
